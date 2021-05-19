@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+p2d-NER-Fine-Tune-Transformer-Final-roberta-base/
+
+p2d-NER-Fine-Tune-Transformer-microsoft/deberta-v2-xlarge/
+
+temp_model_output_dir/
+
+Test_Docs/
+
+wandb/
